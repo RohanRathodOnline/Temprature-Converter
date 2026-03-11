@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="Preview.png" alt="Temperature Converter Preview" width="700"/>
+</p>
+
+<h1 align="center">🌡️ Temperature Converter</h1>
+
+<p align="center">
+A simple web application that converts temperatures between Celsius, Fahrenheit and Kelvin.
+</p>
 # 🌡️ Temperature Converter
 
 A lightweight and user-friendly **temperature conversion web application** that allows users to quickly convert values between **Celsius, Fahrenheit, and Kelvin**.
